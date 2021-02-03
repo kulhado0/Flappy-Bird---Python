@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Dragon Ball/.idea/Dragon Ball.iml" filepath="$PROJECT_DIR$/../Dragon Ball/.idea/Dragon Ball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dragon Ball Game/.idea/Dragon Ball Game.iml" filepath="$PROJECT_DIR$/../Dragon Ball Game/.idea/Dragon Ball Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DragonBallGame/.idea/DragonBallGame.iml" filepath="$PROJECT_DIR$/../DragonBallGame/.idea/DragonBallGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GamePython.iml" filepath="$PROJECT_DIR$/.idea/GamePython.iml" />
+    </modules>
+  </component>
+</project>
