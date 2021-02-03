@@ -2,4 +2,4 @@
 
 "# Flappy-Bird---Python" 
 
-<img src="https://github.com/kulhado0/Flappy-Bird---Python/blob/main/Images/Readme/Sem%20t%C3%ADtulo.png" width="90%"></img>
+<img src="https://github.com/kulhado0/Flappy-Bird---Python/blob/main/Images/Readme/Sem%20t%C3%ADtulo.png" width="40%"></img>
